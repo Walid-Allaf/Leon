@@ -1,0 +1,91 @@
+@media (max-width: 576px) {
+     .container {
+          padding-left: 20px;
+          padding-right: 20px;
+     }
+
+     .special {
+          font-size: 70px;
+     }
+
+     .special+p {
+          font-size: 16px;
+          margin: -24px;
+     }
+
+     /* Start section */
+     .section .sec {
+          width: 100%;
+     }
+
+     /* Start Services */
+     .serv {
+          flex-direction: column;
+          text-align: center;
+     }
+
+     .serv .text {
+          padding-left: 0;
+     }
+
+     .col .image {
+          display: none;
+     }
+
+     /* Start Portfolio */
+     .portfolio .porfolio-content .card {
+          width: 100%;
+     }
+
+     .about .about-content .text p:first-child {
+          margin-top: 50px;
+     }
+
+}
+
+@media (max-width: 768px) {
+     .serv {
+          flex-direction: column;
+          text-align: center;
+     }
+
+     .col .image {
+          margin-top: 50px;
+     }
+
+
+
+     /* Start Contact */
+     .contact .contact-content {
+          font-size: 18px;
+     }
+
+
+}
+
+
+@media (max-width: 992px) {
+
+     /* Start Contact */
+     .contact .contact-content {
+          padding-left: 0;
+          font-size: 22px;
+          align-items: center;
+     }
+
+     .social {
+          justify-content: center;
+     }
+
+     .about .about-content {
+          justify-content: center;
+     }
+
+
+}
+
+@media (max-width: 1200px) {
+     .about .about-content .text p:first-child {
+          margin-top: 50px;
+     }
+}
