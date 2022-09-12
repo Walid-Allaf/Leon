@@ -9,4 +9,4 @@ This design was built by [graphberry.com](https://graphberry.com) website are fr
 
 And I am learning to program this design on [Elzero Web School](https://elzero.org/practical-html-css/) on [YouTube](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF)
 
-Thanks For Osama Elzero :heart:
+Thanks For graphberry.com and Osama Elzero :heart:
