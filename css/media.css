@@ -41,6 +41,14 @@
           margin-top: 50px;
      }
 
+     /* From new-menu File */
+     .menu ul li {
+          font-size: 18px;
+     }
+
+     .menu ul p {
+          font-size: 18px;
+     }
 }
 
 @media (max-width: 768px) {
@@ -59,6 +67,7 @@
      .contact .contact-content {
           font-size: 18px;
      }
+
 
 
 }
@@ -81,6 +90,10 @@
           justify-content: center;
      }
 
+     /* From new-menu File */
+     .menu ul {
+          width: 60vw;
+     }
 
 }
 

@@ -124,7 +124,7 @@ header img {
 }
 
 .menu {
-     display: none;
+     /* display: none; */
      position: absolute;
      top: 35px;
      right: 0;
@@ -132,7 +132,7 @@ header img {
      cursor: pointer;
 }
 
-.menu:after {
+/* .menu:after {
      content: '';
      position: absolute;
      top: -20px;
@@ -141,7 +141,7 @@ header img {
      height: 0;
      border: 10px solid;
      border-color: transparent transparent #eee;
-}
+} */
 
 .icon:hover .menu {
      display: block;

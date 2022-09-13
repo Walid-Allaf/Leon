@@ -1,0 +1,49 @@
+.menu ul {
+     background-color: var(--secondary-color);
+     width: 50vw;
+     height: 100vh;
+
+     padding-top: 50px;
+     padding-bottom: 50px;
+     padding-left: 50px;
+}
+
+.menu ul div {
+     position: absolute;
+     bottom: 40px;
+     left: 50px;
+}
+
+.menu ul li {
+     color: #fff;
+     font-size: 22px;
+     padding: 0;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     /* padding-left: 25px; */
+}
+
+.menu ul li:hover {
+     padding-left: 10px;
+}
+
+ul p {
+     color: #777;
+     font-size: 22px;
+     margin-top: 30px;
+
+     margin-bottom: 10px;
+}
+
+.menu li:not(:last-child) {
+     border: none;
+}
+
+.menu {
+     display: none;
+     position: absolute;
+     top: -28px;
+     right: -110px;
+     z-index: 10;
+     cursor: pointer;
+}
